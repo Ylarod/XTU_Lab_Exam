@@ -1,0 +1,6 @@
+C:/Users/DoraLY/Desktop/ipTools/build/CMakeFiles/package.dir
+C:/Users/DoraLY/Desktop/ipTools/build/CMakeFiles/ipTools_library.dir
+C:/Users/DoraLY/Desktop/ipTools/build/CMakeFiles/ipTools.dir
+C:/Users/DoraLY/Desktop/ipTools/build/CMakeFiles/package_source.dir
+C:/Users/DoraLY/Desktop/ipTools/build/CMakeFiles/edit_cache.dir
+C:/Users/DoraLY/Desktop/ipTools/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,296 @@
+New Process Created, Process ID:0, Process Name:p00, Process Length:10
+Current ReadyList is:
+--0:p00--
+
+New Process Created, Process ID:1, Process Name:p01, Process Length:10
+Current ReadyList is:
+--0:p00----1:p01--
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+New Process Created, Process ID:2, Process Name:p02, Process Length:10
+Current ReadyList is:
+--1:p01----0:p00----2:p02--
+
+New Process Created, Process ID:3, Process Name:p03, Process Length:10
+Current ReadyList is:
+--1:p01----0:p00----2:p02----3:p03--
+
+New Process Created, Process ID:4, Process Name:p04, Process Length:10
+Current ReadyList is:
+--1:p01----0:p00----2:p02----3:p03----4:p04--
+
+New Process Created, Process ID:5, Process Name:p05, Process Length:10
+Current ReadyList is:
+--1:p01----0:p00----2:p02----3:p03----4:p04----5:p05--
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............
+
+One time slot used out!
+
+Process 5:p05 is to be scheduleed.
+Process 5:p05 is running............
+
+One time slot used out!
+
+Process 1:p01 is to be scheduleed.
+Process 1:p01 is running............
+
+One time slot used out!
+
+Process 0:p00 is to be scheduleed.
+Process 0:p00 is running............
+
+One time slot used out!
+
+****** Process 0:p00 has finished. ******
+
+Current ReadyList is:
+--2:p02----3:p03----4:p04----5:p05----1:p01--
+
+Process 2:p02 is to be scheduleed.
+Process 2:p02 is running............
+
+One time slot used out!
+
+Process 3:p03 is to be scheduleed.
+Process 3:p03 is running............
+
+One time slot used out!
+
+Process 4:p04 is to be scheduleed.
+Process 4:p04 is running............

@@ -1,0 +1,1 @@
+g++ main.cpp schedule.cpp -o main

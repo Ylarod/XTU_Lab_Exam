@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/DoraLY/Desktop/ipTools/build",
+  "command": "C:\\DevEnv\\mingw64\\bin\\g++.exe   @CMakeFiles/ipTools_library.dir/includes_CXX.rsp -g   -o CMakeFiles\\ipTools_library.dir\\dataModel.cpp.obj -c C:\\Users\\DoraLY\\Desktop\\ipTools\\dataModel.cpp",
+  "file": "C:/Users/DoraLY/Desktop/ipTools/dataModel.cpp"
+},
+{
+  "directory": "C:/Users/DoraLY/Desktop/ipTools/build",
+  "command": "C:\\DevEnv\\mingw64\\bin\\g++.exe   @CMakeFiles/ipTools_library.dir/includes_CXX.rsp -g   -o CMakeFiles\\ipTools_library.dir\\ipModel.cpp.obj -c C:\\Users\\DoraLY\\Desktop\\ipTools\\ipModel.cpp",
+  "file": "C:/Users/DoraLY/Desktop/ipTools/ipModel.cpp"
+},
+{
+  "directory": "C:/Users/DoraLY/Desktop/ipTools/build",
+  "command": "C:\\DevEnv\\mingw64\\bin\\g++.exe   @CMakeFiles/ipTools_library.dir/includes_CXX.rsp -g   -o CMakeFiles\\ipTools_library.dir\\View.cpp.obj -c C:\\Users\\DoraLY\\Desktop\\ipTools\\View.cpp",
+  "file": "C:/Users/DoraLY/Desktop/ipTools/View.cpp"
+},
+{
+  "directory": "C:/Users/DoraLY/Desktop/ipTools/build",
+  "command": "C:\\DevEnv\\mingw64\\bin\\g++.exe   @CMakeFiles/ipTools_library.dir/includes_CXX.rsp -g   -o CMakeFiles\\ipTools_library.dir\\Controller.cpp.obj -c C:\\Users\\DoraLY\\Desktop\\ipTools\\Controller.cpp",
+  "file": "C:/Users/DoraLY/Desktop/ipTools/Controller.cpp"
+},
+{
+  "directory": "C:/Users/DoraLY/Desktop/ipTools/build",
+  "command": "C:\\DevEnv\\mingw64\\bin\\g++.exe   @CMakeFiles/ipTools.dir/includes_CXX.rsp -g   -o CMakeFiles\\ipTools.dir\\main.cpp.obj -c C:\\Users\\DoraLY\\Desktop\\ipTools\\main.cpp",
+  "file": "C:/Users/DoraLY/Desktop/ipTools/main.cpp"
+}
+]

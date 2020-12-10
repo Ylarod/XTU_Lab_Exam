@@ -1,0 +1,2 @@
+C:\DevEnv\mingw64\bin\ar.exe qc libipTools_library.a  CMakeFiles/ipTools_library.dir/dataModel.cpp.obj CMakeFiles/ipTools_library.dir/ipModel.cpp.obj CMakeFiles/ipTools_library.dir/View.cpp.obj CMakeFiles/ipTools_library.dir/Controller.cpp.obj
+C:\DevEnv\mingw64\bin\ranlib.exe libipTools_library.a
